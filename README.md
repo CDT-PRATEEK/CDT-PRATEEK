@@ -15,7 +15,7 @@ A Computer Science undergraduate passionate about Web and App development, with 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img alt="NETLIFY" src="https://holopin.me/chhatwal"/>
+<img alt="NETLIFY" src="https://holopin.me/cdtprateek"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
