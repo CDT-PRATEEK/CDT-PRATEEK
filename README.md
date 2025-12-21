@@ -1,6 +1,6 @@
 # Hi, I'm Prateek! 👋
 
-A Computer Science undergraduate passionate about Web and App development, with a focus on Data Science and Machine Learning. I'm committed to continuous learning and growth while exploring diverse technologies to create innovative projects.
+A Computer Science graduate passionate about Web and App development, with a focus on Data Science and Machine Learning. I'm committed to continuous learning and growth while exploring diverse technologies to create innovative projects.
 
 
 
